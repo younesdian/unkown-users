@@ -7,4 +7,4 @@ requests==2.24.0
 scapy==2.4.3
 six==1.15.0
 twilio==6.44.1
-urllib3==1.25.10
+urllib3==1.26.5
